@@ -5,7 +5,7 @@ Fala aí! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia, animes 
 ---
 
 ### 🔥 Sobre mim:
-- 💻 Desenvolvedor de [sua área de atuação]
+- 💻 Desenvolvedor Full-Stack
 - 🎮 Gamer nas horas vagas
 - 🎧 Sempre codando ao som de lofi beats
 - 🌌 Buscando sempre evoluir
